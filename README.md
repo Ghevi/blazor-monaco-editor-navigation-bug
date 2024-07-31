@@ -1,5 +1,5 @@
 To reproduce:
-- Click on libman.json and restore client side libraries
+- Click on `libman.json` and restore client side libraries
 - Run the app
 - Navigate to Monaco page
 - Navigate to Home
